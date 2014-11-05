@@ -3,8 +3,8 @@ Type: Package
 Title: Binding for the open source ocr engine Tesseract
 Version: 0.1.6
 Date: 2014-02-27
-Author: Tim Hagmann <tim.hagmann@baloise.ch>
-Maintainer: Tim Hagmann <tim.hagmann@baloise.ch>
+Author: Tim Hagmann
+Maintainer: Tim Hagmann
 Description: Tesseract is probably the most accurate open source OCR engine
     available. Combined with the Leptonica Image Processing Library it can read
     a wide variety of image formats and convert them to text in over 60
