@@ -1,7 +1,7 @@
 ocR
 ===
 
-R binding to Tesseract. Tesseract is probably the most accurate open source OCR
+R bindings to Tesseract. Tesseract is probably the most accurate open source OCR
 engine available. Combined with the Leptonica Image Processing Library it can
 read a wide variety of image formats and convert them to text in over 60 languages.
 It was one of the top 3 engines in the 1995 UNLV Accuracy test. Between 1995
