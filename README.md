@@ -42,7 +42,7 @@ sudo apt-get install tesseract-ocr
 The easiest way to install Tesseract is with MacPorts. Once it is installed, you can install Tesseract by running the command sudo port install tesseract, and any language with sudo port install tesseract-<langcode>. List of available langcodes can be found on MacPorts tesseract page.
 
 #### Windows
-An installer is available for Windows on the [Tesseract-OCR][3] project page. This includes the English training data.
+An installer is available on the [Tesseract-OCR][3] project page. This includes the English training data.
 
 [1]: https://github.com/greenore/initR/blob/master/init.R
 [2]: https://github.com/greenore/systemR
