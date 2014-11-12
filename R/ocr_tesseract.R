@@ -30,6 +30,6 @@ ocrTesseract <- function(dir_path, image_name, output_base, lang="eng", psm=5){
   command <- paste0("tesseract ", dir_path, "/", image_name, " ", dir_path, "/",
                     output_base, " -l " ,lang ," -psm ", psm)
   system(command, wait=TRUE)
-  result <- readLines(paste0(dir_path, "/", output_file, ".txt"))
+  result <- readLines(paste0(dir_path, "/", output_base, ".txt"))
   result
 }
